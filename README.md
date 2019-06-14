@@ -4,25 +4,25 @@ Weather app written with vanilla javascript
 
 ### Getting Started
 
-cloning the project
+Cloning the project
 
 ```
 git clone https://github.com/dmcshehan/weather-app
 ```
 
-navigate to the project folder
+Navigating to the project folder
 
 ```
 cd weather-app
 ```
 
-install dependencies
+Installing dependencies
 
 ```
 npm install
 ```
 
-start the project
+Starting the project
 
 ```
 npm start
